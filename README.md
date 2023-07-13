@@ -1,14 +1,14 @@
-#Activity prediction model for RAG1/2 variants
+# Activity prediction model for RAG1/2 variants
 
-##Structural scores implementation in variant effect prediction model
+## Structural scores implementation in variant effect prediction model
 
-##Requirements
+## Requirements
 library(pls)
 library(dplyr)
 require(ComplexHeatmap)
 
 
-##sessionInfo
+## sessionInfo
 R version 4.0.4 (2021-02-15)
 Platform: x86_64-pc-linux-gnu (64-bit)
 Running under: CentOS Linux 7 (Core)
@@ -37,7 +37,7 @@ loaded via a namespace (and not attached):
 [43] Cairo_1.5-12.2
 
 
-##Usage:
+## Usage:
 The repository contains following scripts which were used to develop the prediction model, results plotting and further analysis ploting.
 RAGactivityPred/R_code/Model_devel.R - model development code.
 RAGactivityPred/R_code/Variant_effect_prediction.R - Activity prediction using the model.
@@ -46,7 +46,8 @@ RAGactivityPred/R_code/Plot_Heatmap.R - Further interpretation of generated data
 
 Data generated using these scripts can be found in data and figures directoiry
 
-#Contribution
+# Contribution
+
 Michael Zimmermann:mtzimmermann@mcw.edu; Neshatul Haque:nehaque@mcw.edu
 
 
