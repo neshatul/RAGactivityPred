@@ -42,7 +42,7 @@ loaded via a namespace (and not attached):
 ## Usage:
 The repository contains following scripts which were used to develop the prediction model, plotting results.
 RAGactivityPred/R_code/Model_devel.R - model development code.
-RAGactivityPred/R_code/Variant_effect_prediction.R - Activity prediction using the model.
+RAGactivityPred/R_code/Variant_effect_prediction.R - Activity prediction using the model. ![Alt text]([image link](https://github.com/neshatul/RAGactivityPred/blob/master/figures/RAG1_TrainTest_Plot.pdf))
 RAGactivityPred/R_code/Plot_Heatmap.R - Clustering experimental and predicted data for better visualization.
 RAGactivityPred/R_code/Plot_Heatmap.R - Further interpretation of generated data.
 
