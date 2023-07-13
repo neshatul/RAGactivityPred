@@ -9,11 +9,10 @@
 #study <- 'RAG1'
 study <- 'RAG2'
 
-
-################################# No edit required below #######################
 # Define path to the project folder
 Project_Path <- "~/projects/rag_prc" #  Change the Project_Path to where you save
                                      #  the download
+################################# No edit required below #######################
 Project_name <- "RAGactivityPred"
 
 #load library
