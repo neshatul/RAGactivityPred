@@ -46,7 +46,7 @@ RAGactivityPred/R_code/Variant_effect_prediction.R - Activity prediction using t
 RAGactivityPred/R_code/Plot_Heatmap.R - Clustering experimental and predicted data for better visualization.
 RAGactivityPred/R_code/Plot_Heatmap.R - Further interpretation of generated data.
 
-Data generated using these scripts can be found in data and figures directoiry
+Data and figures generated using these scripts can be found in data and figures directory
 
 # Contribution
 
