@@ -6,11 +6,10 @@
 #'@usage: Simply running the scripts generates the plot of distribution.
 
 
-################################# No edit required below #######################
-
 # Define path to the project folder
 Project_Path <- "~/projects/rag_prc" #  Change the Project_Path to where you save
-#  the download
+                                     #  the download
+################################# No edit required below #######################
 Project_name <- "RAGactivityPred"
 
 #load library
